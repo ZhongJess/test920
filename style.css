@@ -77,7 +77,7 @@ body {
 
 
 .banner{
-    background-image: url(/image/banner.png);
+    background-image: url(image/banner.png);
     background-position: center;
     display: flex;
     justify-content: center;
