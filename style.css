@@ -83,7 +83,8 @@ body {
     justify-content: center;
     align-items: center;
     height: 958px;
-    border: 0px ;
+    background-size: cover;
+
 
 
 }
